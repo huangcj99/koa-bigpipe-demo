@@ -1,0 +1,19 @@
+{
+  "name": "bigpipe-test",
+  "version": "1.0.0",
+  "description": "bigpipe koa stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "bigpipe"
+  ],
+  "author": "joe <smallcatcat.joe@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-bigpipe-middlewary": "^1.0.2"
+  }
+}
