@@ -35,6 +35,9 @@ app.use((ctx) => {
   bigpipe.render();
 })
 
+app.on('error', function(err) {
+  console.log(err);
+})
 
 app.listen(9000, () => {
   console.log('启动');
