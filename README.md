@@ -1,5 +1,7 @@
 ### 测试我自己编写的koa-bigpipe-middlewary， 模拟bigpipe渲染技术
 
+#### 环境node >= 8.x
+
 #### 执行
 
 ```shell
